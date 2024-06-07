@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FindMe Flight</string>
+    <string name="app_description">FindMe Flight</string>
+    <string name="app_version">1.0</string>
+
+    <!--  Card String  -->
+    <string name= "depart_label">Depart</string>
+    <string name= "arrive_label">Arrive</string>
+
+    <!--  Search Bar  -->
+    <string name= "search_placeholder">Find your departure airport</string>
+    <string name="flights_from">Flight from</string>
+    <string name="favourite_routes">Your Favourite Flight Routes</string>
+    <string name="no_results">No Favourites Yet</string>
+
+</resources>
